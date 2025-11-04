@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Korfu",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1375189,
+      "longitude": 11.644569
+    },
+    "osm_id": 312160822
+  },
+  {
+    "name": "Hen Asian Kitchen",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1375681,
+      "longitude": 11.6445152
+    },
+    "osm_id": 313040819
+  },
+  {
+    "name": "Niedrig-Preis",
+    "category": "supermarket",
+    "gps": {
+      "latitude": 52.1431704,
+      "longitude": 11.653294
+    },
+    "osm_id": 315968915
+  },
+  {
+    "name": "Primo Espresso",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1401159,
+      "longitude": 11.6457024
+    },
+    "osm_id": 1477668653
+  },
+  {
+    "name": "Cafeteria Uni Bibliothek",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1391749,
+      "longitude": 11.6467026
+    },
+    "osm_id": 1578665832
+  },
+  {
+    "name": "Mensa",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1395292,
+      "longitude": 11.6475725
+    },
+    "osm_id": 1578665845
+  },
+  {
+    "name": "PIER 16",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1400387,
+      "longitude": 11.6440333
+    },
+    "osm_id": 1578665860
+  },
+  {
+    "name": "Elbwerk",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1428968,
+      "longitude": 11.6578617
+    },
+    "osm_id": 2280451572
+  },
+  {
+    "name": "Café Oriental",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1376951,
+      "longitude": 11.646479
+    },
+    "osm_id": 2283441723
+  },
+  {
+    "name": "Kantine der Bördeküche",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.144622,
+      "longitude": 11.6535991
+    },
+    "osm_id": 2638015657
+  },
+  {
+    "name": "Daniel's",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1421151,
+      "longitude": 11.6582431
+    },
+    "osm_id": 3603177716
+  },
+  {
+    "name": "Café im Park",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1447605,
+      "longitude": 11.6462741
+    },
+    "osm_id": 4298364175
+  },
+  {
+    "name": "Die Kaffeebar",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1387354,
+      "longitude": 11.6459377
+    },
+    "osm_id": 4832221693
+  },
+  {
+    "name": "NP",
+    "category": "supermarket",
+    "gps": {
+      "latitude": 52.1431978,
+      "longitude": 11.6533296
+    },
+    "osm_id": 5222043922
+  },
+  {
+    "name": "Ristorante Da Nino Dolce Vita",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1421482,
+      "longitude": 11.6513802
+    },
+    "osm_id": 5222045416
+  },
+  {
+    "name": "Café Latte",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1396369,
+      "longitude": 11.6474833
+    },
+    "osm_id": 6604669954
+  },
+  {
+    "name": "NP",
+    "category": "supermarket",
+    "gps": {
+      "latitude": 52.1431327,
+      "longitude": 11.6533455
+    },
+    "osm_id": 8195089948
+  },
+  {
+    "name": "Asia Long",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.142556,
+      "longitude": 11.6531606
+    },
+    "osm_id": 12335014289
+  },
+  {
+    "name": "World of Pizza",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1424547,
+      "longitude": 11.652117
+    },
+    "osm_id": 12879254899
+  },
+  {
+    "name": "Viet San Buffet und Sushi",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1448759,
+      "longitude": 11.6400898
+    },
+    "osm_id": 12892357118
+  }
+]

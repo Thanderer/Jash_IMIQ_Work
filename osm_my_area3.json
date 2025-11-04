@@ -1,0 +1,956 @@
+[
+  {
+    "name": "PENNY",
+    "category": "supermarket",
+    "gps": {
+      "latitude": 52.1500881,
+      "longitude": 11.6404039
+    },
+    "osm_id": 83314497
+  },
+  {
+    "name": "Hummels Brauhaus",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1317056,
+      "longitude": 11.6325585
+    },
+    "osm_id": 244134516
+  },
+  {
+    "name": "Cinemaxx",
+    "category": "cinema",
+    "gps": {
+      "latitude": 52.1311354,
+      "longitude": 11.6294717
+    },
+    "osm_id": 245008897
+  },
+  {
+    "name": "NP",
+    "category": "supermarket",
+    "gps": {
+      "latitude": 52.136034,
+      "longitude": 11.64389
+    },
+    "osm_id": 268130717
+  },
+  {
+    "name": "ALEX",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1308546,
+      "longitude": 11.6346606
+    },
+    "osm_id": 292717145
+  },
+  {
+    "name": "Kaufland",
+    "category": "supermarket",
+    "gps": {
+      "latitude": 52.1300194,
+      "longitude": 11.6304287
+    },
+    "osm_id": 307560400
+  },
+  {
+    "name": "Korfu",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1375189,
+      "longitude": 11.644569
+    },
+    "osm_id": 312160822
+  },
+  {
+    "name": "Hen Asian Kitchen",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1375681,
+      "longitude": 11.6445152
+    },
+    "osm_id": 313040819
+  },
+  {
+    "name": "Niedrig-Preis",
+    "category": "supermarket",
+    "gps": {
+      "latitude": 52.1431704,
+      "longitude": 11.653294
+    },
+    "osm_id": 315968915
+  },
+  {
+    "name": "Lago di Garda",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1380406,
+      "longitude": 11.6385
+    },
+    "osm_id": 320401356
+  },
+  {
+    "name": "PENNY",
+    "category": "supermarket",
+    "gps": {
+      "latitude": 52.1318143,
+      "longitude": 11.6663866
+    },
+    "osm_id": 335174697
+  },
+  {
+    "name": "Pluspunkt-Apotheke",
+    "category": "pharmacy",
+    "gps": {
+      "latitude": 52.134585,
+      "longitude": 11.6378544
+    },
+    "osm_id": 346110529
+  },
+  {
+    "name": "Rats-Apotheke",
+    "category": "pharmacy",
+    "gps": {
+      "latitude": 52.1301677,
+      "longitude": 11.6351794
+    },
+    "osm_id": 365253282
+  },
+  {
+    "name": "China Stammtisch \"Kimbo Burg\"",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1327738,
+      "longitude": 11.6331199
+    },
+    "osm_id": 367541320
+  },
+  {
+    "name": "Ciao Ciao",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.131516,
+      "longitude": 11.6346596
+    },
+    "osm_id": 367554989
+  },
+  {
+    "name": "Altstadt Apotheke",
+    "category": "pharmacy",
+    "gps": {
+      "latitude": 52.1341222,
+      "longitude": 11.6337816
+    },
+    "osm_id": 370281358
+  },
+  {
+    "name": "Apotheke am Theater",
+    "category": "pharmacy",
+    "gps": {
+      "latitude": 52.1369936,
+      "longitude": 11.6395692
+    },
+    "osm_id": 401234987
+  },
+  {
+    "name": "Izgaram",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1317119,
+      "longitude": 11.6298676
+    },
+    "osm_id": 403983389
+  },
+  {
+    "name": "Restaurant & Café Flair",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1314416,
+      "longitude": 11.6371036
+    },
+    "osm_id": 417813655
+  },
+  {
+    "name": "Nordpark-Apotheke",
+    "category": "pharmacy",
+    "gps": {
+      "latitude": 52.1475993,
+      "longitude": 11.6441397
+    },
+    "osm_id": 463210150
+  },
+  {
+    "name": "Mimi´s Welt",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1295636,
+      "longitude": 11.6514568
+    },
+    "osm_id": 496823556
+  },
+  {
+    "name": "REWE",
+    "category": "supermarket",
+    "gps": {
+      "latitude": 52.129883,
+      "longitude": 11.6389313
+    },
+    "osm_id": 610561993
+  },
+  {
+    "name": "Rialto Eiscafé",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1296362,
+      "longitude": 11.6359257
+    },
+    "osm_id": 612554217
+  },
+  {
+    "name": "Rialto Pizzeria",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1295576,
+      "longitude": 11.6358625
+    },
+    "osm_id": 612554774
+  },
+  {
+    "name": "Leo's Schlemmer Café",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1344589,
+      "longitude": 11.638588
+    },
+    "osm_id": 778272827
+  },
+  {
+    "name": "Eiscafé Venezia",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1319569,
+      "longitude": 11.6366029
+    },
+    "osm_id": 938088437
+  },
+  {
+    "name": "Ost-Apotheke",
+    "category": "pharmacy",
+    "gps": {
+      "latitude": 52.1291936,
+      "longitude": 11.6707272
+    },
+    "osm_id": 1109384127
+  },
+  {
+    "name": "Lotto",
+    "category": "kiosk",
+    "gps": {
+      "latitude": 52.1294275,
+      "longitude": 11.6719318
+    },
+    "osm_id": 1109384201
+  },
+  {
+    "name": "Café Bördeland",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1296635,
+      "longitude": 11.6701589
+    },
+    "osm_id": 1109555798
+  },
+  {
+    "name": "Apotheke am Tränsberg",
+    "category": "pharmacy",
+    "gps": {
+      "latitude": 52.1368126,
+      "longitude": 11.6466907
+    },
+    "osm_id": 1278624990
+  },
+  {
+    "name": "Da Vittorio",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1314004,
+      "longitude": 11.6296347
+    },
+    "osm_id": 1347094024
+  },
+  {
+    "name": "Izgaram",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1316898,
+      "longitude": 11.6299622
+    },
+    "osm_id": 1391935523
+  },
+  {
+    "name": "Glückspilz",
+    "category": "kiosk",
+    "gps": {
+      "latitude": 52.1320053,
+      "longitude": 11.6372409
+    },
+    "osm_id": 1461391061
+  },
+  {
+    "name": "Café Frösi",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.140606,
+      "longitude": 11.6732333
+    },
+    "osm_id": 1472359224
+  },
+  {
+    "name": "Primo Espresso",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1401159,
+      "longitude": 11.6457024
+    },
+    "osm_id": 1477668653
+  },
+  {
+    "name": "GALERIA Restaurant",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1323624,
+      "longitude": 11.6365378
+    },
+    "osm_id": 1477821299
+  },
+  {
+    "name": "Cafeteria Uni Bibliothek",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1391749,
+      "longitude": 11.6467026
+    },
+    "osm_id": 1578665832
+  },
+  {
+    "name": "Mensa",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1395292,
+      "longitude": 11.6475725
+    },
+    "osm_id": 1578665845
+  },
+  {
+    "name": "PIER 16",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1400387,
+      "longitude": 11.6440333
+    },
+    "osm_id": 1578665860
+  },
+  {
+    "name": "Lüder",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1290515,
+      "longitude": 11.6364012
+    },
+    "osm_id": 1709823680
+  },
+  {
+    "name": "Eckert",
+    "category": "kiosk",
+    "gps": {
+      "latitude": 52.1367713,
+      "longitude": 11.6394912
+    },
+    "osm_id": 1797286804
+  },
+  {
+    "name": "Go Asia",
+    "category": "supermarket",
+    "gps": {
+      "latitude": 52.1324641,
+      "longitude": 11.6375048
+    },
+    "osm_id": 1888903650
+  },
+  {
+    "name": "BoBoQ",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1305701,
+      "longitude": 11.6366106
+    },
+    "osm_id": 2190312212
+  },
+  {
+    "name": "Elbwerk",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1428968,
+      "longitude": 11.6578617
+    },
+    "osm_id": 2280451572
+  },
+  {
+    "name": "Café Oriental",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1376951,
+      "longitude": 11.646479
+    },
+    "osm_id": 2283441723
+  },
+  {
+    "name": "Kalimera",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1353825,
+      "longitude": 11.6344772
+    },
+    "osm_id": 2293045175
+  },
+  {
+    "name": "EDEKA",
+    "category": "supermarket",
+    "gps": {
+      "latitude": 52.134646,
+      "longitude": 11.6390333
+    },
+    "osm_id": 2580760027
+  },
+  {
+    "name": "Kantine der Bördeküche",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.144622,
+      "longitude": 11.6535991
+    },
+    "osm_id": 2638015657
+  },
+  {
+    "name": "Gelato Mio Eisbar",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1303156,
+      "longitude": 11.6345602
+    },
+    "osm_id": 2762371708
+  },
+  {
+    "name": "Smile Purple",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1294821,
+      "longitude": 11.6350549
+    },
+    "osm_id": 2762386109
+  },
+  {
+    "name": "La Perla",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1336956,
+      "longitude": 11.6382444
+    },
+    "osm_id": 2885102415
+  },
+  {
+    "name": "Waffle Crush",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1315915,
+      "longitude": 11.6306881
+    },
+    "osm_id": 3370512270
+  },
+  {
+    "name": "Wirtshaus Magdeburg",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1305192,
+      "longitude": 11.6347995
+    },
+    "osm_id": 3439084719
+  },
+  {
+    "name": "Daniel's",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1421151,
+      "longitude": 11.6582431
+    },
+    "osm_id": 3603177716
+  },
+  {
+    "name": "Shirokuro",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1357135,
+      "longitude": 11.6382531
+    },
+    "osm_id": 3775469542
+  },
+  {
+    "name": "Eckert",
+    "category": "kiosk",
+    "gps": {
+      "latitude": 52.134811,
+      "longitude": 11.6386171
+    },
+    "osm_id": 3790433370
+  },
+  {
+    "name": "Uni-Shop",
+    "category": "kiosk",
+    "gps": {
+      "latitude": 52.1374842,
+      "longitude": 11.6375794
+    },
+    "osm_id": 4138574654
+  },
+  {
+    "name": "Kaiser Otto Apotheke",
+    "category": "pharmacy",
+    "gps": {
+      "latitude": 52.1387177,
+      "longitude": 11.638683
+    },
+    "osm_id": 4160592789
+  },
+  {
+    "name": "Café im Park",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1447605,
+      "longitude": 11.6462741
+    },
+    "osm_id": 4298364175
+  },
+  {
+    "name": "Die Kaffeebar",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1387354,
+      "longitude": 11.6459377
+    },
+    "osm_id": 4832221693
+  },
+  {
+    "name": "Piccolo Mondo",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1459163,
+      "longitude": 11.6339891
+    },
+    "osm_id": 4890555270
+  },
+  {
+    "name": "NP",
+    "category": "supermarket",
+    "gps": {
+      "latitude": 52.1431978,
+      "longitude": 11.6533296
+    },
+    "osm_id": 5222043922
+  },
+  {
+    "name": "Ristorante Da Nino Dolce Vita",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1421482,
+      "longitude": 11.6513802
+    },
+    "osm_id": 5222045416
+  },
+  {
+    "name": "Bötelstube",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1319387,
+      "longitude": 11.6386865
+    },
+    "osm_id": 5502255489
+  },
+  {
+    "name": "Rathaus-Cafe",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1314358,
+      "longitude": 11.6384907
+    },
+    "osm_id": 5502256179
+  },
+  {
+    "name": "Wang Cha",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1289263,
+      "longitude": 11.6353514
+    },
+    "osm_id": 5602934095
+  },
+  {
+    "name": "Zwölf",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1318865,
+      "longitude": 11.6381823
+    },
+    "osm_id": 5624302096
+  },
+  {
+    "name": "Mensa Herrenkrug",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1401668,
+      "longitude": 11.6757098
+    },
+    "osm_id": 5651343512
+  },
+  {
+    "name": "Cowvana - vegan Food & More",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1290651,
+      "longitude": 11.6362106
+    },
+    "osm_id": 5875915084
+  },
+  {
+    "name": "Café Latte",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1396369,
+      "longitude": 11.6474833
+    },
+    "osm_id": 6604669954
+  },
+  {
+    "name": "Café Herrenkrug",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1401612,
+      "longitude": 11.6754252
+    },
+    "osm_id": 6610749271
+  },
+  {
+    "name": "Infinitea",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1295488,
+      "longitude": 11.6350941
+    },
+    "osm_id": 6724877398
+  },
+  {
+    "name": "Tucherstube",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1292439,
+      "longitude": 11.6355872
+    },
+    "osm_id": 8032116569
+  },
+  {
+    "name": "NP",
+    "category": "supermarket",
+    "gps": {
+      "latitude": 52.1431327,
+      "longitude": 11.6533455
+    },
+    "osm_id": 8195089948
+  },
+  {
+    "name": "Peter Pane",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1314987,
+      "longitude": 11.635737
+    },
+    "osm_id": 8893172188
+  },
+  {
+    "name": "Café Treibgut",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1489978,
+      "longitude": 11.6625277
+    },
+    "osm_id": 9577513315
+  },
+  {
+    "name": "Café Rosengarten",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1353884,
+      "longitude": 11.6669404
+    },
+    "osm_id": 9952860095
+  },
+  {
+    "name": "GALERIA Markthalle",
+    "category": "supermarket",
+    "gps": {
+      "latitude": 52.1321152,
+      "longitude": 11.6361259
+    },
+    "osm_id": 10594894606
+  },
+  {
+    "name": "auf die Hand magic foodstore",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.139266,
+      "longitude": 11.6666758
+    },
+    "osm_id": 10831785796
+  },
+  {
+    "name": "Asia Long",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.142556,
+      "longitude": 11.6531606
+    },
+    "osm_id": 12335014289
+  },
+  {
+    "name": "World of Pizza",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1424547,
+      "longitude": 11.652117
+    },
+    "osm_id": 12879254899
+  },
+  {
+    "name": "Viet San Buffet und Sushi",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1448759,
+      "longitude": 11.6400898
+    },
+    "osm_id": 12892357118
+  },
+  {
+    "name": "Café Alte Neustadt",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1475667,
+      "longitude": 11.6445451
+    },
+    "osm_id": 12978520179
+  },
+  {
+    "name": "Mensa Kellercafé",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1380797,
+      "longitude": 11.6338959
+    },
+    "osm_id": 13200893268
+  },
+  {
+    "name": "Dolce & Caffè Bar",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1375658,
+      "longitude": 11.633606
+    },
+    "osm_id": 13201143622
+  },
+  {
+    "name": "Tchibo",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1316418,
+      "longitude": 11.6375828
+    },
+    "osm_id": 13232568778
+  },
+  {
+    "name": "Cafeteria Turmschanzenstraße",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1295247,
+      "longitude": 11.6569566
+    },
+    "osm_id": 26514207
+  },
+  {
+    "name": "Restaurant Petriförder",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1324112,
+      "longitude": 11.6469403
+    },
+    "osm_id": 34059416
+  },
+  {
+    "name": "ALDI Nord",
+    "category": "supermarket",
+    "gps": {
+      "latitude": 52.1485598,
+      "longitude": 11.6558619
+    },
+    "osm_id": 98777193
+  },
+  {
+    "name": "Lidl",
+    "category": "supermarket",
+    "gps": {
+      "latitude": 52.1471277,
+      "longitude": 11.6549197
+    },
+    "osm_id": 153264202
+  },
+  {
+    "name": "Café Rosengarten",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.135393,
+      "longitude": 11.6669594
+    },
+    "osm_id": 292648487
+  },
+  {
+    "name": "Cafe Del Sol",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1360964,
+      "longitude": 11.6574881
+    },
+    "osm_id": 420900249
+  },
+  {
+    "name": "EDEKA",
+    "category": "supermarket",
+    "gps": {
+      "latitude": 52.1477234,
+      "longitude": 11.6450293
+    },
+    "osm_id": 876633276
+  },
+  {
+    "name": "Apotheke am Hauptbahnhof",
+    "category": "pharmacy",
+    "gps": {
+      "latitude": 52.1306853,
+      "longitude": 11.6306983
+    },
+    "osm_id": 880797669
+  },
+  {
+    "name": "Sushi City",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1303027,
+      "longitude": 11.6298981
+    },
+    "osm_id": 884169791
+  },
+  {
+    "name": "Ana's Grill",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1302277,
+      "longitude": 11.6299011
+    },
+    "osm_id": 884169792
+  },
+  {
+    "name": "Taverna",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1300788,
+      "longitude": 11.6297786
+    },
+    "osm_id": 884169794
+  },
+  {
+    "name": "Lidl",
+    "category": "supermarket",
+    "gps": {
+      "latitude": 52.1298156,
+      "longitude": 11.6390883
+    },
+    "osm_id": 918485525
+  },
+  {
+    "name": "Pluspunkt-Apotheke",
+    "category": "pharmacy",
+    "gps": {
+      "latitude": 52.1302745,
+      "longitude": 11.6376158
+    },
+    "osm_id": 918485536
+  },
+  {
+    "name": "Square IO",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1304636,
+      "longitude": 11.6369604
+    },
+    "osm_id": 918485546
+  },
+  {
+    "name": "L'Osteria",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1304264,
+      "longitude": 11.6367062
+    },
+    "osm_id": 918485548
+  },
+  {
+    "name": "Sapori d'Italia",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1299415,
+      "longitude": 11.6372635
+    },
+    "osm_id": 918485576
+  },
+  {
+    "name": "Ana's Grill",
+    "category": "restaurant",
+    "gps": {
+      "latitude": 52.1297824,
+      "longitude": 11.6371562
+    },
+    "osm_id": 918485579
+  },
+  {
+    "name": "Segafredo",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1298434,
+      "longitude": 11.638146
+    },
+    "osm_id": 920551533
+  },
+  {
+    "name": "Coffee Fellows",
+    "category": "cafe",
+    "gps": {
+      "latitude": 52.1302306,
+      "longitude": 11.6371628
+    },
+    "osm_id": 920551544
+  },
+  {
+    "name": "Lidl",
+    "category": "supermarket",
+    "gps": {
+      "latitude": 52.1290769,
+      "longitude": 11.6716742
+    },
+    "osm_id": 1069299866
+  }
+]
