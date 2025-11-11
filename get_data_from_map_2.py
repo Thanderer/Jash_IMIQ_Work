@@ -59,18 +59,24 @@ for place in data['elements']:
 
     # Build our clean object
     place_object = {
+        "osm_id": place['id'], # Good to keep for reference
         "name": tags.get('name', 'Name not available'),
         "category": category or "unknown",
         "gps": {
             "latitude": lat,
             "longitude": lon
         },
-        "osm_id": place['id'] # Good to keep for reference
+        # Additional fields
+        "cuisine": tags.get('cuisine'),
+        "opening_hours": tags.get('opening_hours'),
+        "website": tags.get('website'),
+        "accessibility": tags.get('wheelchair'),
+        "wikidata": tags.get('wikidata')
     }
     all_places.append(place_object)
 
 
-output_filename = 'osm_my_area3.json' # Changed the name slightly
+output_filename = 'osm_my_area_more_fields.json' # Changed the name slightly with every run
 with open(output_filename, 'w', encoding='utf-8') as f:
     json.dump(all_places, f, ensure_ascii=False, indent=2)
 
