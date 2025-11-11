@@ -1,0 +1,248 @@
+[
+    {
+        "date": "Dienstag / Tuesday, 11.11.2025",
+        "meals": [
+            {
+                "name_german": "Grab the prep: Mungobohnen-Bits , Brokkoli-Cremesauce , Blumenkohl , Pommes Frites , Wildreismischung",
+                "name_english": "Grab the prep: mungbean bits , broccoli cream sauce , cauliflower , french fries , wild rice mix",
+                "price": "(3,70 | 5,40 | 6,80)",
+                "category": "Vegetarian/Vegan"
+            },
+            {
+                "name_german": "BIO Vollkorn-Penne Rigate , Rinder-Hackfleisch in Käse-Lauchsoße",
+                "name_english": "organic wholemeal Penne Rigate , minced beef in cheese leek sauce",
+                "price": "(3,40 | 5,10 | 6,50)",
+                "category": "Non-Vegetarian"
+            },
+            {
+                "name_german": "Mungobohnen-Bits , Brokkoli-Cremesauce , Blumenkohl , Pommes Frites , Wildreismischung",
+                "name_english": "mungbean bits , broccoli cream sauce , cauliflower , french fries , wild rice mix",
+                "price": "(3,70 | 5,40 | 6,80)",
+                "category": "Vegetarian/Vegan"
+            },
+            {
+                "name_german": "5 Kartoffelrösti , Kräuterquark , marinierte Blattsalate",
+                "name_english": "5 hash browns , herb quark , marinated leaf salads",
+                "price": "(2,00 | 3,80 | 5,20)",
+                "category": "Vegetarian/Vegan"
+            },
+            {
+                "name_german": "Der heutige Lieblingskuchen vom Mensa-Team: Veganer Marmor-Himbeerkuchen",
+                "name_english": "Today's favourite cake of our Mensa-Team: vegan raspberry marble cake",
+                "price": "(1,50 | 1,80 | 2,10)",
+                "category": "Vegetarian/Vegan"
+            },
+            {
+                "name_german": "Aktion: Pollo con mole - Gebratene Hähnchenbrust, mexikanische Schokoladen-Chilisauce , Erbsen-Paprika-Maisgemüse , Wildreismischung",
+                "name_english": "Special offer: Pollo con mole - fried chicken breast, Mexican chocolate chilli sauce , pea-bell pepper-corn vegetables , wild rice mix",
+                "price": "(3,40 | 5,10 | 6,50)",
+                "category": "Non-Vegetarian"
+            },
+            {
+                "name_german": "Portion Pommes Frites, Ketchup oder Mayonnaise , marinierte Blattsalate",
+                "name_english": "Serving of french fries, ketchup or mayonnaise , marinated leaf salads",
+                "price": "(2,00 | 3,80 | 5,20)",
+                "category": "Vegetarian/Vegan"
+            }
+        ]
+    },
+    {
+        "date": "Mittwoch / Wednesday, 12.11.2025",
+        "meals": [
+            {
+                "name_german": "Schweineschnitzel im Kürbiskernmantel , Majoransauce , rustikales Möhrengemüse , Kartoffelstampf oder Pommes Frites",
+                "name_english": "pork escalope in pumpkin seed coating , marjoram sauce , rustic carrot vegetables , mashed potatoes or French fries",
+                "price": "(3,20 | 4,90 | 6,45)",
+                "category": "Non-Vegetarian"
+            },
+            {
+                "name_german": "Ein Paar Geflügel-Wiener Würstchen zum Eintopf",
+                "name_english": "A pair of poultry 'Vienna style' sausages to the stew",
+                "price": "(1,50 | 1,70 | 1,90)",
+                "category": "Non-Vegetarian"
+            },
+            {
+                "name_german": "Aktion: Bananen-Pfannkuchen , Blaubeer-Ragout , Vanillesauce , Hafer-Mandel-Granola Grab the prep:",
+                "name_english": "Special offer: banana pancakes , blueberry compote , vanilla sauce , oat almond granola Grab the prep:",
+                "price": "(3,20 | 4,90 | 6,45)",
+                "category": "Vegetarian/Vegan"
+            },
+            {
+                "name_german": "Weiße Bohneneintopf",
+                "name_english": "white bean stew",
+                "price": "(2,00 | 3,80 | 5,20)",
+                "category": "Vegetarian/Vegan"
+            },
+            {
+                "name_german": "Der heutige Lieblingskuchen vom Mensa-Team: Ofenwarmer Sauerkirsch-Streusel-Kuchen vom Blech",
+                "name_english": "Today's favorite cake of the Mensa team: oven warm sour cherry crumble cake from the baking tray",
+                "price": "(1,50 | 1,80 | 2,10)",
+                "category": "Vegetarian/Vegan"
+            },
+            {
+                "name_german": "Aktion: Bananen-Pfannkuchen , Blaubeer-Ragout , Vanillesauce , Hafer-Mandel-Granola",
+                "name_english": "Special offer: banana pancakes , blueberry compote , vanilla sauce , oat almond granola",
+                "price": "(3,20 | 4,90 | 6,45)",
+                "category": "Vegetarian/Vegan"
+            },
+            {
+                "name_german": "Portion Pommes Frites, Ketchup oder Mayonnaise , marinierte Blattsalate",
+                "name_english": "Serving of french fries, ketchup or mayonnaise , marinated leaf salads",
+                "price": "(2,00 | 3,80 | 5,20)",
+                "category": "Vegetarian/Vegan"
+            }
+        ]
+    },
+    {
+        "date": "Donnerstag / Thursday, 13.11.2025",
+        "meals": [
+            {
+                "name_german": "Geflügelfrikadelle , Waldpilzsauce , Kaisergemüse , Pommes Frites oder Salzkartoffeln",
+                "name_english": "fried poultry meatball , forest mushroom sauce , mixed creamed vegetables , french fries or salt potatoes",
+                "price": "(2,90 | 4,60 | 6,15)",
+                "category": "Non-Vegetarian"
+            },
+            {
+                "name_german": "Geflügelfrikadelle , Waldpilzsauce , Kaisergemüse , Pommes Frites oder Salzkartoffeln Grab the prep:",
+                "name_english": "fried poultry meatball , forest mushroom sauce , mixed creamed vegetables , french fries or salt potatoes Grab the prep:",
+                "price": "(2,90 | 4,60 | 6,15)",
+                "category": "Non-Vegetarian"
+            },
+            {
+                "name_german": "2 Back-Hirtenkäse dazu griechischer Kritharaki-Nudelsalat mit buntem Gemüse und Kräutern in Zitronen-Olivenöl",
+                "name_english": "2 baked herder's cheese additional Greek Kritharaki pasta salad with colourful vegetables and herbs in lemon olive oil",
+                "price": "(3,70 | 5,40 | 6,80)",
+                "category": "Vegetarian/Vegan"
+            },
+            {
+                "name_german": "Der heutige Lieblingskuchen vom Mensa-Team: Saftiger Mohn-Schmand-Kuchen vom Blech",
+                "name_english": "Today's favorite cake of the Mensa team: juicy poppy seed sour cream cake from the baking tray",
+                "price": "(1,50 | 1,80 | 2,10)",
+                "category": "Vegetarian/Vegan"
+            },
+            {
+                "name_german": "Aktion: Ofen-Lachs mit Avocado-Topping , Erdnuss-Ingwer-Koriandersoße , Woknudeln mit Asiagemüse, Ei und Sesam",
+                "name_english": "Special offer: oven-baked salmon with avocado topping , peanut-ginger-coriander sauce , wok noodles with Asian vegetables, egg and sesame",
+                "price": "(4,90 | 6,60 | 8,00)",
+                "category": "Non-Vegetarian"
+            },
+            {
+                "name_german": "Portion Pommes Frites, Ketchup oder Mayonnaise , marinierte Blattsalate",
+                "name_english": "Serving of french fries, ketchup or mayonnaise , marinated leaf salads",
+                "price": "(2,00 | 3,80 | 5,20)",
+                "category": "Vegetarian/Vegan"
+            }
+        ]
+    },
+    {
+        "date": "Freitag / Friday, 14.11.2025",
+        "meals": [
+            {
+                "name_german": "Hähnchencrossies , Mandarinen-Currydip , asiatisches Pfannengemüse , Basmatireis oder Pommes Frites",
+                "name_english": "chicken crossies , tangerine-curry dip , asian pan vegetables , basmati rice or French fries",
+                "price": "(4,00 | 5,70 | 7,10)",
+                "category": "Non-Vegetarian"
+            },
+            {
+                "name_german": "Harzer Teufelswurst , feuriges Gemüseletscho , Kartoffelstampf Grab the prep:",
+                "name_english": "spicy sausage Harz Mountains Style , spicy vegetable lecho , mashed potatoes Grab the prep:",
+                "price": "(2,90 | 4,60 | 6,15)",
+                "category": "Non-Vegetarian"
+            },
+            {
+                "name_german": "Harzer Teufelswurst , feuriges Gemüseletscho , Kartoffelstampf",
+                "name_english": "spicy sausage Harz Mountains Style , spicy vegetable lecho , mashed potatoes",
+                "price": "(2,90 | 4,60 | 6,15)",
+                "category": "Non-Vegetarian"
+            },
+            {
+                "name_german": "Der heutige Lieblingskuchen vom Mensa-Team: Magdeburger Butter-Zucker-Kuchen vom Blech",
+                "name_english": "Today's favorite cake of the Mensa team: butter sugar cake 'Magdeburg Style' from the baking tray",
+                "price": "(1,50 | 1,80 | 2,10)",
+                "category": "Vegetarian/Vegan"
+            },
+            {
+                "name_german": "Aktion: High Protein Bowl - Plantbased Beef, Quinoa, Bohnen, Champignons, Brokkoli, Hummus, Cashewkerne",
+                "name_english": "Special offer: High Protein Bowl - plant-based beef, quinoa, beans, champignons, broccoli, hummus, cashew nuts",
+                "price": "(3,80 | 5,50 | 6,90)",
+                "category": "Symbol Knoblauch"
+            },
+            {
+                "name_german": "Portion Pommes Frites, Ketchup oder Mayonnaise , marinierte Blattsalate",
+                "name_english": "Serving of french fries, ketchup or mayonnaise , marinated leaf salads",
+                "price": "(2,00 | 3,80 | 5,20)",
+                "category": "Vegetarian/Vegan"
+            },
+            {
+                "name_german": "Tagessuppe",
+                "name_english": "Soup of the day",
+                "price": "(0,60 | 0,80 | 1,00)",
+                "category": "Non-Vegetarian"
+            }
+        ]
+    },
+    {
+        "date": "Montag / Monday, 17.11.2025",
+        "meals": [
+            {
+                "name_german": "Gebratene Hähnchenbrust mit Tomate und Mozzarella überbacken , Basilikum-Pestosauce , Zucchinigemüse , Couscous oder Pommes Frites",
+                "name_english": "fried chicken breast gratinated with tomato and mozzarella cheese , basil pesto sauce , courgette vegetables , couscous or French fries",
+                "price": "(3,40 | 5,10 | 6,50)",
+                "category": "Non-Vegetarian"
+            },
+            {
+                "name_german": "Tex-Mex-Pizza mit Rinderhackfleisch, Gemüse-Chili, Guacamole und Koriander",
+                "name_english": "Tex Mex Pizza with ground beef, vegetable chilli, guacamole and coriander",
+                "price": "(4,30 | 6,00 | 7,40)",
+                "category": "Non-Vegetarian"
+            },
+            {
+                "name_german": "Buntes Kürbis-Linsengemüse mit Penne Rigate, Apfel, Walnüssen und Rucola",
+                "name_english": "colourful pumpkin lentil vegetables with penne rigate, apple, walnuts and arugula",
+                "price": "(2,90 | 4,60 | 6,15)",
+                "category": "Vegetarian/Vegan"
+            },
+            {
+                "name_german": "Der heutige Lieblingskuchen vom Mensa-Team: Waldbeeren-Schmand-Kuchen",
+                "name_english": "Today's favourite cake of our Mensa-Team: Wild berry cream cake",
+                "price": "(1,50 | 1,80 | 2,10)",
+                "category": "Vegetarian/Vegan"
+            },
+            {
+                "name_german": "Portion Pommes Frites, Ketchup oder Mayonnaise , marinierte Blattsalate",
+                "name_english": "Serving of french fries, ketchup or mayonnaise , marinated leaf salads",
+                "price": "(2,00 | 3,80 | 5,20)",
+                "category": "Vegetarian/Vegan"
+            }
+        ]
+    },
+    {
+        "date": "Dienstag / Tuesday, 18.11.2025",
+        "meals": [
+            {
+                "name_german": "Hähnchenschnitzel Piccata im Käsemantel , Tomaten-Basilikumsauce , Pfannengemüse , Gabelspaghetti oder Kartoffelkroketten",
+                "name_english": "chicken escalope piccata in cheese coating , tomato basil sauce , pan-fried vegetables , cut up shortened spaghetti and potato croquettes",
+                "price": "(3,70 | 5,40 | 6,80)",
+                "category": "Non-Vegetarian"
+            },
+            {
+                "name_german": "2 Rote Beete-Puffer , Kräutersauce , Schwarzwurzeln , BIO-Langkornreis",
+                "name_english": "2 beetroot hash browns , herb sauce , black salsify , organic long grain rice",
+                "price": "(3,20 | 4,90 | 6,45)",
+                "category": "Vegetarian/Vegan"
+            },
+            {
+                "name_german": "Bacon-Burger , Kartoffelspalten , Sour Cream",
+                "name_english": "bacon burger , potato wedges , sour cream",
+                "price": "(4,20 | 5,90 | 7,30)",
+                "category": "Non-Vegetarian"
+            },
+            {
+                "name_german": "Der heutige Lieblingskuchen vom Mensa-Team: Veganer Marmor-Kirschkuchen",
+                "name_english": "Today's favourite cake of our Mensa-Team: vegan marble cake with cherries",
+                "price": "(1,50 | 1,80 | 2,10)",
+                "category": "Vegetarian/Vegan"
+            }
+        ]
+    }
+]
