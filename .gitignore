@@ -1,0 +1,14 @@
+# Root files to ignore
+config.yml
+get_data_from_map_2.py
+mvgm_events.jsonl
+osm_my_area_more_fields.json
+sanitize_yaml.py
+
+# Directories to ignore
+.vscode/
+data/
+Event-extraction/
+IMIQ/
+ovgu-test/
+test-go-infra/
